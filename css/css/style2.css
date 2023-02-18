@@ -1,0 +1,20 @@
+h2{
+    text-align: center;
+    padding: 30px;
+    align-items: center;
+ }
+
+.formbody{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.formx{
+    margin-bottom: 100px;
+    padding:20px;
+    border-radius: 5px;
+    box-shadow: 0 5px 10px rgba(0,0,0,.1);
+    background: #fff;
+    text-align: center;
+    width: 500px;
+ }
